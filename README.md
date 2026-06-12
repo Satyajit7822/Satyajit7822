@@ -7,9 +7,9 @@
 
 ## 🚀 Technical Skills
 
-- **Languages:** C/C++, Java, JavaScript, TypeScript, SQL, HTML/CSS  
+- **Languages:** C/C++, JavaScript, TypeScript, HTML/CSS, SQL(Basic)  
 - **Frameworks/Libraries:** React.js, Node.js  
-- **Tools & Platforms:** Git, GitHub, VS Code, MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, VS Code, MongoDB  
 - **Concepts:** OOP, DBMS, OS, Computer Networks, DSA, REST APIs
 
 ---
