@@ -1,52 +1,101 @@
 # 👋 Hi, I'm Satyajit Pradhan
 
-🎓 I'm a passionate Computer Science student with a strong interest in **Web Development**, **Cloud Computing**, and **Data Structures & Algorithms**.  
-🔧 I'm constantly building and learning new things to grow as a developer.
+## 📊 Aspiring Data Analyst | SQL | Excel | Power BI | Tableau
+
+I'm a Computer Science Engineering student passionate about turning raw data into meaningful insights. I enjoy solving business problems through data analysis, visualization, and SQL while continuously improving my analytical and technical skills.
+
+🌱 Currently building real-world Data Analytics projects and expanding my portfolio.
 
 ---
 
 ## 🚀 Technical Skills
 
-- **Languages:** C/C++, JavaScript, TypeScript, HTML/CSS, SQL(Basic)  
-- **Frameworks/Libraries:** React.js, Node.js  
-- **Tools & Platforms:** Git, GitHub, VS Code, MongoDB  
-- **Concepts:** OOP, DBMS, OS, Computer Networks, DSA, REST APIs
+### 📊 Data Analytics
+- SQL (MySQL)
+- Microsoft Excel
+- Power BI
+- Tableau
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+
+### 🌐 Web Technologies
+- HTML
+- CSS
+- Tailwind CSS
+- Node.js (Basic)
+
+### 🛠️ Tools
+- Git
+- GitHub
+- VS Code
+- MySQL
 
 ---
 
-## 💼 Notable Projects
+## 💼 Featured Projects
 
-- ✈️ **Flight Booking Web App**  
-  _Internship at IFFCO_ — Designed and developed a full-stack web application for flight booking using HTML, CSS, JavaScript, and backend integration.
+### ⚽ Football SQL Database Project
+A complete SQL database project demonstrating:
+- Database Design
+- ER Diagram
+- DBML Schema
+- Table Creation
+- Data Insertion
+- Joins
+- Aggregate Functions
+- Subqueries
+- Common Table Expressions (CTEs)
+- Views
+- Stored Procedures
+- Functions
+- Triggers
 
-- 🧠 **Research Paper: Cooperative Game Theory for Optimizing Multi-Tenant Cloud Data Centers**  
-  Co-authored with Sanket Kumar Rout, Aditya Mohanty, and Swamil Patra.  
-  _Under review at IEEE Transactions on Cloud Computing (Dec 2024)._
+**Tech Stack:** MySQL | SQL
 
 ---
 
-## 🏆 Achievements & Activities
+### 🚗 Car Price Analytics Dashboard
+An interactive Power BI dashboard providing insights into car prices, fuel types, transmission, mileage, and market trends.
 
-- ✅ Completed internship at **IFFCO**, contributing to real-world web development tasks.
-- 📄 Published academic research in cloud computing optimization.
-- 💡 Participated in coding contests and technical quizzes.
+**Tech Stack:** Power BI | Excel
+
+---
+
+### 📊 Sales Dashboard
+Designed an interactive business dashboard to monitor KPIs, sales performance, customer trends, and revenue insights.
+
+**Tech Stack:** Power BI | Excel
+
+---
+
+## 🏆 Achievements
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 💼 Web Development Internship at IFFCO
+- 📄 Co-authored research paper **"Cooperative Game Theory for Optimizing Multi-Tenant Cloud Data Centers"** *(Under Review)*
+- 📈 Transitioning from Software Development to Data Analytics through hands-on projects
 
 ---
 
 ## 📚 Currently Learning
 
-- Front-End Development (React, Tailwind CSS)  
-- Advanced DSA & System Design  
-- Open Source Contributions
+- Advanced SQL
+- Power BI
+- Tableau
+- Excel for Data Analytics
+- Business Intelligence
+- Data Storytelling
+
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/satyajit-pradhan-06093525b/)  
-- [Email](mailto:pradhansatyajit182@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/satyajit-pradhan-06093525b/
+
+📧 Email: pradhansatyajit182@gmail.com
 
 ---
 
-_Thanks for visiting! Don't forget to ⭐ some projects if you like them._
-
+⭐ Thanks for visiting my profile! If you find my projects helpful, consider giving them a star.
